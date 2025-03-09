@@ -5,5 +5,6 @@ def discrete_logarithm_problem(base, result, modulus):
 
     return None
 
+
 result = discrete_logarithm_problem(base=2, result=11, modulus=19)
 print(result)

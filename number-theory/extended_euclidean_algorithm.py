@@ -7,5 +7,6 @@ def extended_gcd(a, n):
     y = x1 - (a // n) * y1
     return gcd_, x, y
 
+
 result = extended_gcd(a=30, n=50)
 print(result)

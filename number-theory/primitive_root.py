@@ -1,8 +1,9 @@
 def gcd(a, b):
     while b != 0:
         a, b = b, a % b
-        
+
     return a
+
 
 def phi_function(n):
     result = n
@@ -21,12 +22,14 @@ def phi_function(n):
 
     return result
 
+
 def is_primitive_root(g, n):
     phi_n = phi_function(n)
     residues = set()
     for k in range(1, phi_n + 1):
         residues.add(pow(g, k, n))
     return len(residues) == phi_n
+
 
 def find_primitive_roots(n):
     phi_n = phi_function(n)
@@ -35,6 +38,7 @@ def find_primitive_roots(n):
         if gcd(g, n) == 1 and is_primitive_root(g, n):
             primitive_roots.append(g)
     return primitive_roots
+
 
 result = find_primitive_roots(n=7)
 print(result)

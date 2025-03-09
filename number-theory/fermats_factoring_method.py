@@ -1,5 +1,6 @@
 import math
 
+
 def fermat_factoring_method(n):
     a = math.isqrt(n) + 1
     b2 = a * a - n
@@ -11,6 +12,7 @@ def fermat_factoring_method(n):
     factor1 = a - b
     factor2 = a + b
     return factor1, factor2
+
 
 result = fermat_factoring_method(n=5959)
 print(result)

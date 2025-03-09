@@ -10,5 +10,6 @@ def modular_exponentiation(base, exponent, mod):
 
     return result
 
+
 result = modular_exponentiation(base=5, exponent=117, mod=13)
 print(result)

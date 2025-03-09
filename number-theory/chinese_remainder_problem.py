@@ -7,12 +7,14 @@ def extended_gcd(a, n):
     y = x1 - (a // n) * y1
     return gcd_, x, y
 
+
 def modular_inverse(a, n):
     gcd_, x, _ = extended_gcd(a, n)
     if gcd_ != 1:
         raise ValueError("")
 
     return x % n
+
 
 def chinese_remainder_problem(a, m):
     M = 1
@@ -27,5 +29,6 @@ def chinese_remainder_problem(a, m):
 
     return x % M
 
-result = chinese_remainder_problem(a=[2,3,2], m=[3,5,7])
+
+result = chinese_remainder_problem(a=[2, 3, 2], m=[3, 5, 7])
 print(result)

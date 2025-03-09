@@ -15,5 +15,6 @@ def phi_function(n):
 
     return result
 
+
 result = phi_function(n=36)
 print(result)

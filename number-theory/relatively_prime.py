@@ -4,5 +4,6 @@ def relatively_prime(a, b):
 
     return a == 1
 
+
 result = relatively_prime(a=35, b=64)
 print(result)
