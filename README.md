@@ -48,6 +48,10 @@
 36. [Vernam Cipher](https://github.com/thealper2/crypto-algorithms/tree/main/encryption-methods/vernam-cipher)
 37. [Vigenere Cipher](https://github.com/thealper2/crypto-algorithms/tree/main/encryption-methods/vigenere-cipher)
 
+## Hash Functions
+
+1. [Luhn Algorithm](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/luhn-algorithm)
+
 ## Number Theory
 
 1. [Chinese Remainder Problem](https://github.com/thealper2/crypto-algorithms/blob/main/number-theory/chinese_remainder_problem.py)
