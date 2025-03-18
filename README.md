@@ -51,6 +51,11 @@
 ## Hash Functions
 
 1. [Luhn Algorithm](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/luhn-algorithm)
+2. [Adler-32](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/adler-32)
+3. [Cyclic Redundancy Check (CRC)](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/cyclic-redundancy-check)
+4. [Fletcher](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/fletcher)
+5. [Verhoeff Algorithm](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/verhoeff-algorithm)
+6. [XOR8](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/xor-8)
 
 ## Number Theory
 
