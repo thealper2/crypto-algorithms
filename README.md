@@ -56,6 +56,13 @@
 4. [Fletcher](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/fletcher)
 5. [Verhoeff Algorithm](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/verhoeff-algorithm)
 6. [XOR8](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/xor-8)
+7. [Bernstein's Hash (DJB2)](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/bernsteins-hash)
+8. [Damm Algorithm](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/damm-algorithm)
+9. [Elf Hash](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/elf-hash)
+10. [Pearson Hashing](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/pearson-hashing)
+11. [Rabin Fingerprint](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/rabin-fingerprint)
+12. [Tabulation Hashing](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/tabulation-hashing)
+13. [Zobrist Hashing](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/zobrist-hashing)
 
 ## Number Theory
 
