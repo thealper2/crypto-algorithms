@@ -63,6 +63,9 @@
 11. [Rabin Fingerprint](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/rabin-fingerprint)
 12. [Tabulation Hashing](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/tabulation-hashing)
 13. [Zobrist Hashing](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/zobrist-hashing)
+14. [FSB](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/fsb)
+15. [HMAC](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/hmac)
+16. [Murmur Hash](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/murmur-hash)
 
 ## Number Theory
 
