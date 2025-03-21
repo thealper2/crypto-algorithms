@@ -69,6 +69,7 @@
 17. [MD2 (Message Digest 2)](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/message-digest-2)
 18. [MD4 (Message Digest 4)](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/message-digest-4)
 19. [MD5 (Message Digest 5)](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/message-digest-5)
+20. [SHA256 (Secure Hash Algorithm 256)](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/sha-256)
 
 
 ## Number Theory
