@@ -66,6 +66,10 @@
 14. [FSB](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/fsb)
 15. [HMAC](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/hmac)
 16. [Murmur Hash](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/murmur-hash)
+17. [MD2 (Message Digest 2)](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/message-digest-2)
+18. [MD4 (Message Digest 4)](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/message-digest-4)
+19. [MD5 (Message Digest 5)](https://github.com/thealper2/crypto-algorithms/tree/main/hash-functions/message-digest-5)
+
 
 ## Number Theory
 
